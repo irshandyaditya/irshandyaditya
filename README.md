@@ -1,6 +1,10 @@
-# Hi, I'm Irshandy Aditya Wicaksana👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69831855?s=400&u=aaadedeef274f32758fcccd6a6a8d6d52d42c27d&v=4" width="150" height="150" style="border-radius: 50%;" alt="irshandyaditya" />
+</p>
 
-### Full Stack Developer | Informatics Engineering Graduate
+<h1 align="center">Hi, I'm Irshandy Aditya Wicaksana 👋</h1>
+
+<h3 align="center">Full Stack Developer | Informatics Engineering Graduate</h3>
 
 I build web applications and backend systems, focusing on creating practical solutions through clean architecture, efficient APIs, and well-structured databases.
 
@@ -101,3 +105,4 @@ I'm always open to discussing software development, exploring new technologies, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/irshandy-aditya-wicaksana-200b8b250/)
 - 💻 [GitHub](https://github.com/irshandyaditya)
+- 📧 [Email](mailto:irshandy.aditya@gmail.com)
