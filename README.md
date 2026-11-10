@@ -20,7 +20,7 @@ I'm interested in exploring new technologies, solving engineering problems, and 
 
 ### Featured Projects
 
-#### [CER Connect](https://github.com/irshandyaditya)
+#### [CER Connect](https://github.com/irshandyaditya/cer-connect)
 
 A web-based learning application designed to support structured scientific reasoning through the Claim Evidence Reasoning (CER) framework.
 
