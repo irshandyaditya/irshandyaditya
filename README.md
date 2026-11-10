@@ -1,4 +1,4 @@
-# Hi, I'm Irshandy Aditya Wicaksana 👋
+# Hi, I'm Irshandy Aditya Wicaksana👋
 
 ### Full Stack Developer | Informatics Engineering Graduate
 
@@ -11,7 +11,7 @@ I'm interested in exploring new technologies, solving engineering problems, and 
 ### About Me
 
 - 🎓 Bachelor of Applied Science in Informatics Engineering from **Politeknik Negeri Malang**.
-- 💻 Experienced in developing full-stack web applications and RESTful APIs.
+- 💻 Experienced in developing full-stack web applications, mobile applications, and RESTful APIs.
 - 🚀 Interested in backend engineering, system architecture, and modern web technologies.
 - 🏢 Previously worked on various internal applications during my internship at **PT Telkom Satelit Indonesia**.
 - 📚 Always learning and exploring new technologies.
@@ -20,7 +20,7 @@ I'm interested in exploring new technologies, solving engineering problems, and 
 
 ### Featured Projects
 
-#### CER Connect — Claim Evidence Reasoning Learning Application
+#### [CER Connect](https://github.com/irshandyaditya)
 
 A web-based learning application designed to support structured scientific reasoning through the Claim Evidence Reasoning (CER) framework.
 
@@ -31,6 +31,17 @@ A web-based learning application designed to support structured scientific reaso
 **Tech Stack:** Next.js · Express.js · PostgreSQL
 
 [Live Application](https://cer-connect.vercel.app/login)
+
+#### [AgePlay](https://github.com/irshandyaditya/AgePlay)
+
+A mobile application that estimates users' ages through facial recognition and recommends age-appropriate games based on the estimated age.
+
+- Developed mobile application interfaces using Flutter by translating UI/UX designs into responsive mobile screens.
+- Integrated the mobile application with backend services and APIs.
+- Implemented the integration of facial age estimation and game recommendation features.
+- Worked with a Django-based backend for machine learning integration.
+
+**Tech Stack:** Flutter · Django · Machine Learning · MySQL
 
 ---
 
@@ -77,18 +88,10 @@ Contributed to the development of internal web applications and business systems
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irshandyaditya&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshandyaditya&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -96,6 +99,5 @@ Contributed to the development of internal web applications and business systems
 
 I'm always open to discussing software development, exploring new technologies, and collaborating on interesting projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/irshandy-aditya-wicaksana-200b8b250/)
 - 💻 [GitHub](https://github.com/irshandyaditya)
-
